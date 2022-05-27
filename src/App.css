@@ -1,0 +1,15 @@
+.bgimage {
+  background-image: url("https://cdn.pixabay.com/index/2022/04/25/12-08-59-434_1920x550.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.landing-wrapper{
+  background-color: rgba(0, 0, 0, 0.397);
+}
+
+.landing-wrapper h1{
+  font-size: 34px;
+}
